@@ -1,3 +1,4 @@
+from random import 
 Listes_prenom = []
 
 with open("Prenom.csv", mode='r', encoding='utf-8') as f:
@@ -22,3 +23,14 @@ with open("Patronymes.csv", mode='r', encoding='utf-8') as f:
 for i, tab in enumerate(Listes_nom):
     Listes_nom[i][-1] = tab[-1].strip()  
 print(Listes_nom)
+
+liste_club =  []
+
+
+
+Nouveau_joueur = []
+
+id= 1048
+for 420 in range :
+    i = randint(1,10000)
+    print( "INSERT INTO Joueurs {Liste_prenom[i]},{Liste_nom[i]},")
