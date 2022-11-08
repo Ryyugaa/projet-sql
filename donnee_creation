@@ -1,0 +1,24 @@
+Listes_prenom = []
+
+with open("Prenom.csv", mode='r', encoding='utf-8') as f:
+    lines = f.readlines()
+
+    for line in lines:
+        Listes_prenom.append(line.split(";"))
+
+for i, tab in enumerate(Listes_prenom):
+    Listes_prenom[i][-1] = tab[-1].strip()  
+print(Listes_prenom)
+
+
+Listes_nom = []
+
+with open("Patronymes.csv", mode='r', encoding='utf-8') as f:
+    lines = f.readlines()
+
+    for line in lines:
+        Listes_nom.append(line.split(";"))
+
+for i, tab in enumerate(Listes_nom):
+    Listes_nom[i][-1] = tab[-1].strip()  
+print(Listes_nom)
