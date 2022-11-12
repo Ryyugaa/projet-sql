@@ -1,478 +1,479 @@
-Clt,Joueur,Nation,Pos,Équipe,Âge,Naissance
-1,Yunis Abdelhamid,ma MAR,DF,Reims,35-028,1987
-2,Himad Abdelli,fr FRA,MT,Angers,22-343,1999
-3,Salis Abdul Samed,gh GHA,MT,Lens,22-214,2000
-4,Laurent Abergel,fr FRA,MT,Lorient,29-267,1993
-5,Matthis Abline,fr FRA,ATMT,Rennes,19-212,2003
-6,Zakaria Aboukhlal,ma MAR,MTAT,Toulouse,22-250,2000
-7,Mohamed Achi,fr FRA,MTAT,Nantes,20-283,2002
-8,Martin Adeline,fr FRA,MTAT,Reims,18-328,2003
-9,Emmanuel Agbadou,ci CIV,DF,Reims,25-131,1997
-10,Lucien Agoume,fr FRA,MT,Troyes,20-259,2002
-11,Ruben Aguilar,fr FRA,DF,Monaco,29-183,1993
-12,Jean-Eudes Aholou,ci CIV,MT,Strasbourg,28-220,1994
-13,Ludovic Ajorque,re REU,AT,Strasbourg,28-243,1994
-14,Maghnes Akliouche,fr FRA,MTAT,Monaco,20-243,2002
-15,Doğan Alemdar,tr TUR,GB,Rennes,19-362,2002
-16,Jim Allevinah,ga GAB,MT,Clermont Foot,27-241,1995
-17,Mickaël Alphonse,gp GLP,DF,Ajaccio,33-106,1989
-18,Ibrahim Amadou,fr FRA,DFMT,Angers,29-203,1993
-19,Benjamin André,fr FRA,MT,Lille,32-084,1990
-20,Komnen Andrić,rs SRB,AT,Clermont Foot,27-117,1995
-21,Houssem Aouar,fr FRA,MT,Lyon,24-118,1998
-22,Adil Aouchiche,fr FRA,MT,Lorient,20-103,2002
-23,Dennis Appiah,fr FRA,DFMT,Nantes,30-139,1992
-24,Lorenz Assignon,tg TOG,DFMT,Rennes,22-126,2000
-25,Youcef Atal,dz ALG,DFMT,Nice,26-162,1996
-26,Mathias Autret,fr FRA,MT,Auxerre,31-239,1991
-27,Cédric Avinel,gp GLP,DF,Ajaccio,36-045,1986
-28,Loïc Bade,fr FRA,DF,Rennes,22-198,2000
-29,Benoît Badiashile,fr FRA,DF,Monaco,21-214,2001
-30,Eric Bailly,ci CIV,DF,Marseille,28-197,1994
-31,Dénys Bain,fr FRA,DF,Auxerre,29-116,1993
-32,Brandon Baiye,be BEL,MT,Clermont Foot,21-303,2000
-33,Cédric Bakambu,cd COD,MT,Marseille,31-198,1991
-34,Thierno Balde,fr FRA,DF,Troyes,20-138,2002
-35,Carlos Baleba,cm CMR,MT,Lille,18-296,2004
-36,Leonardo Balerdi,ar ARG,DF,Marseille,23-273,1999
-37,Folarin Balogun,eng ENG,AT,Reims,21-115,2001
-38,Abdoulaye Bamba,ci CIV,DF,Angers,32-184,1990
-39,Jonathan Bamba,fr FRA,MT,Lille,26-214,1996
-40,Bradley Barcola,fr FRA,MTAT,Lyon,20-054,2002
-41,Melvin Bard,fr FRA,DF,Nice,21-354,2000
-42,Ross Barkley,eng ENG,MTAT,Nice,28-325,1993
-43,Mickaël Barreto,fr FRA,MT,Ajaccio,31-281,1991
-44,Cyrille Bayala,bf BFA,MT,Ajaccio,26-155,1996
-45,Yanis Begraoui,fr FRA,MT,Toulouse,21-114,2001
-46,Alexis Beka Beka,fr FRA,MT,Nice,21-211,2001
-47,Jérémie Bela,ao ANG,DFMT,Clermont Foot,29-201,1993
-48,Youcef Belaïli,dz ALG,MTAT,Ajaccio,30-226,1992
-49,Youcef Belaïli,dz ALG,MTAT,Brest,30-226,1992
-50,Haris Belkebla,dz ALG,MT,Brest,28-271,1994
-51,Jean-Ricner Bellegarde,fr FRA,MTDF,Strasbourg,24-121,1998
-52,Wissam Ben Yedder,fr FRA,AT,Monaco,32-075,1990
-53,Nabil Bentaleb,dz ALG,MT,Angers,27-336,1994
-54,Patrick Berg,no NOR,MTAT,Lens,24-336,1997
-55,Mitchell van Bergen,nl NED,DFAT,Reims,23-060,1999
-56,Quentin Bernard,fr FRA,DF,Auxerre,33-111,1989
-57,Paul Bernardoni,fr FRA,GB,Angers,25-191,1997
-58,Juan Bernat,es ESP,DFMT,Paris S-G,29-239,1993
-59,Jason Berthomier,fr FRA,MT,Clermont Foot,32-293,1990
-60,El Bilal Touré,ml MLI,AT,Reims,21-023,2001
-61,Jean-Claude Billong,cm CMR,MT,Clermont Foot,28-302,1993
-62,Veljko Birmančević,rs SRB,MTDF,Toulouse,24-235,1998
-63,Marco Bizot,nl NED,GB,Brest,31-230,1991
-64,Rubén Blanco,es ESP,GB,Marseille,27-093,1995
-65,Ludovic Blas,fr FRA,MTAT,Nantes,24-299,1997
-66,Miha Blažič,si SVN,DF,Angers,29-171,1993
-67,Myron Boadu,nl NED,AT,Monaco,21-285,2001
-68,Jérôme Boateng,de GER,DF,Lyon,34-053,1988
-69,Antonin Bobichon,fr FRA,MT,Angers,27-042,1995
-70,Quentin Boisgard,fr FRA,MT,Lorient,25-223,1997
-71,Neto Borges,br BRA,DF,Clermont Foot,26-043,1996
-72,Kenji-Van Boto,mg MAD,DF,Auxerre,26-233,1996
-73,Kouamé Botué,bf BFA,AT,Ajaccio,20-080,2002
-74,Hicham Boudaoui,dz ALG,MT,Nice,23-033,1999
-75,Sofiane Boufal,ma MAR,MTAT,Angers,29-039,1993
-76,Ismaëlben Boura,fr FRA,DFAT,Lens,22-073,2000
-77,Benjamin Bourigeaud,fr FRA,MTAT,Rennes,28-285,1994
-78,Bilal Brahimi,dz ALG,ATMT,Nice,22-226,2000
-79,Lilian Brassier,fr FRA,DF,Brest,22-358,1999
-80,Andreas Bruus,dk DEN,DFMT,Troyes,23-283,1999
-81,Joe Bryan,eng ENG,MTDF,Nice,29-039,1993
-82,Adam Buksa,pl POL,ATMT,Lens,26-106,1996
-83,Marcin Bułka,pl POL,GB,Nice,23-022,1999
-84,Maxime Busi,be BEL,DF,Reims,23-012,1999
-85,Rémy Cabella,fr FRA,MT,Lille,32-232,1990
-86,Jimmy Cabot,fr FRA,DFMT,Lens,28-191,1994
-87,Jens Cajuste,se SWE,MT,Reims,23-077,1999
-88,Duje Ćaleta-Car,hr CRO,DF,Marseille,26-039,1996
-89,Mahdi Camara,fr FRA,MTDF,Brest,24-118,1998
-90,Mohamed Camara,ml MLI,MT,Monaco,22-293,2000
-91,Ousmane Camara,fr FRA,DF,Angers,19-234,2003
-92,Axel Camblan,fr FRA,AT,Brest,19-057,2003
-93,Pierrick Capelle,fr FRA,MTDF,Angers,35-194,1987
-94,Maxence Caqueret,fr FRA,MT,Lyon,22-253,2000
-95,Irvin Cardona,fr FRA,ATMT,Brest,25-079,1997
-96,Matis Carvalho,pt POR,GB,Montpellier,23-181,1999
-97,Jean-Charles Castelletto,cm CMR,DF,Nantes,27-273,1995
-98,Yoann Cathline,fr FRA,MT,Lorient,20-096,2002
-99,Maximiliano Caufriez,be BEL,DF,Clermont Foot,25-252,1997
-100,Fabien Centonze,fr FRA,DF,Nantes,26-283,1996
-101,Leonardo César Jardim,br BRA,GB,Lille,27-220,1995
-102,El Chadaille Bitshiabu,fr FRA,DF,Paris S-G,17-163,2005
-103,Fares Chaïbi,fr FRA,ATMT,Toulouse,19-332,2002
-104,Gaëtan Charbonnier,fr FRA,AT,Auxerre,33-303,1988
-105,Brendan Chardonnet,fr FRA,DF,Brest,27-308,1994
-106,Xavier Chavalerin,fr FRA,MT,Troyes,31-233,1991
-107,Rayan Cherki,fr FRA,MTAT,Lyon,19-070,2003
-108,Ilyes Cheti,dz ALG,DF,Angers,27-277,1995
-109,Lucas Chevalier,fr FRA,GB,Lille,20-354,2001
-110,Pedro Chirivella,es ESP,MT,Nantes,25-156,1997
-111,Joris Chotard,fr FRA,MT,Montpellier,21-032,2001
-112,Yanis Cimignani,fr FRA,MTDF,Ajaccio,20-277,2002
-113,Souleymane Cissé,fr FRA,DF,Clermont Foot,20-079,2002
-114,Alexis Claude-Maurice,fr FRA,MT,Nice,24-142,1998
-115,Alexis Claude-Maurice,fr FRA,MTDF,Lens,24-142,1998
-116,Jonathan Clauss,fr FRA,DF,Marseille,30-031,1992
-117,Marcus Coco,fr FRA,DFAT,Nantes,26-124,1996
-118,Alexandre Coeff,fr FRA,DF,Auxerre,30-248,1992
-119,Abdu Conté,pt POR,DF,Troyes,24-216,1998
-120,Sébastien Corchia,fr FRA,DFMT,Nantes,31-359,1990
-121,David Pereira da Costa,pt POR,MTAT,Lens,21-294,2001
-122,Logan Costa,cv CPV,DF,Toulouse,21-208,2001
-123,Nuno da Costa,cv CPV,ATMT,Auxerre,31-258,1991
-124,Benoît Costil,fr FRA,GB,Auxerre,35-115,1987
-125,Mathieu Coutadeur,fr FRA,MT,Ajaccio,36-220,1986
-126,Nicolas Cozza,fr FRA,DF,Montpellier,23-291,1999
-127,Damien Da Silva,fr FRA,DF,Lyon,34-162,1988
-128,Colin Dagba,fr FRA,DF,Strasbourg,24-047,1998
-129,Thijs Dallinga,nl NED,AT,Toulouse,22-084,2000
-130,Flavius Daniliuc,at AUT,DF,Nice,21-182,2001
-131,Kevin Danso,at AUT,DF,Lens,24-037,1998
-132,Dante,br BRA,DF,Nice,39-008,1983
-133,Achraf Dari,ma MAR,DF,Brest,23-173,1999
-134,Jonathan David,ca CAN,ATMT,Lille,22-285,2000
-135,Brecht Dejaegere,be BEL,MT,Toulouse,31-150,1991
-136,Romain Del Castillo,fr FRA,MTAT,Brest,26-211,1996
-137,Thomas Delaine,fr FRA,DF,Strasbourg,30-216,1992
-138,Sacha Delaye,fr FRA,ATMT,Montpellier,20-186,2002
-139,Andy Delort,dz ALG,AT,Nice,31-017,1991
-140,Karamoko Dembele,sct SCO,ATMT,Brest,19-246,2003
-141,Moussa Dembélé,fr FRA,ATMT,Lyon,26-106,1996
-142,Branco van den Boomen,nl NED,MT,Toulouse,27-097,1995
-143,Mikkel Desler,dk DEN,DF,Toulouse,27-249,1995
-144,Bafodé Diakité,fr FRA,DF,Lille,21-293,2001
-145,Ibrahim Diakité,gn GUI,DF,Reims,18-360,2003
-146,Habib Diallo,sn SEN,AT,Strasbourg,27-130,1995
-147,Ismael Diallo,ci CIV,DF,Ajaccio,25-270,1997
-148,Mouhamadou Diarra,sn SEN,MT,Strasbourg,18-296,2004
-149,Moussa Diarra,ml MLI,DF,Toulouse,21-350,2000
-150,Stéphane Diarra,fr FRA,MTAT,Lorient,23-321,1998
-151,Krepin Diatta,sn SEN,MTAT,Monaco,23-243,1999
-152,Mory Diaw,sn SEN,GB,Clermont Foot,29-126,1993
-153,Bamba Dieng,sn SEN,ATDF,Marseille,22-217,2000
-154,Tristan Dingomé,cm CMR,MTDF,Troyes,31-251,1991
-155,Sinaly Diomande,ci CIV,DF,Lyon,21-200,2001
-156,Lois Diony,fr FRA,AT,Angers,29-310,1992
-157,Sofiane Diop,fr FRA,MTAT,Nice,22-139,2000
-158,Sofiane Diop,fr FRA,MT,Monaco,22-139,2000
-159,Yehvann Diouf,fr FRA,GB,Reims,22-344,1999
-160,Axel Disasi,fr FRA,DF,Monaco,24-229,1998
-161,Tiago Djaló,pt POR,DF,Lille,22-200,2000
-162,Alexander Djiku,gh GHA,DF,Strasbourg,28-078,1994
-163,Jeremy Doku,be BEL,ATMT,Rennes,20-152,2002
-164,Kyliane Dong,fr FRA,DFMT,Troyes,18-029,2004
-165,Gianluigi Donnarumma,it ITA,GB,Paris S-G,23-243,1999
-166,Jodel Dossou,bj BEN,MTDF,Clermont Foot,30-223,1992
-167,Lohann Doucet,fr FRA,MTAT,Nantes,20-042,2002
-168,Ckene Doucouré,km COM,ATMT,Lorient,20-201,2002
-169,Désiré Doué,fr FRA,MTAT,Rennes,17-145,2005
-170,Ismaël Doukouré,fr FRA,DF,Strasbourg,19-094,2003
-171,Kamory Doumbia,ml MLI,MT,Reims,19-250,2003
-172,Souleyman Doumbia,ci CIV,DFAT,Angers,26-032,1996
-173,Rémy Dugimont,fr FRA,MTAT,Auxerre,36-117,1986
-174,Maxime Dupé,fr FRA,GB,Toulouse,29-236,1993
-175,Jean-Kevin Duverne,fr FRA,DF,Brest,25-106,1997
-176,Hugo Ekitike,fr FRA,ATMT,Paris S-G,20-128,2002
-177,Sepe Elye Wahi,fr FRA,ATMT,Montpellier,19-297,2003
-178,Breel Embolo,ch SUI,AT,Monaco,25-254,1997
-179,Maxime Estève,fr FRA,DF,Montpellier,20-153,2002
-180,Fábio,br BRA,DFMT,Nantes,32-109,1990
-181,Noah Fadiga,sn SEN,DF,Brest,22-327,1999
-182,Wout Faes,be BEL,DF,Reims,24-206,1998
-183,Romain Faivre,fr FRA,MT,Lyon,24-104,1998
-184,Khalil Fayad,fr FRA,MT,Montpellier,18-139,2004
-185,Jordan Ferri,fr FRA,MT,Montpellier,30-228,1992
-186,Karol Fila,pl POL,DF,Strasbourg,24-135,1998
-187,Alexis Flips,fr FRA,DFMT,Reims,22-281,2000
-188,Seko Fofana,ci CIV,MT,Lens,27-172,1995
-189,Yahia Fofana,fr FRA,GB,Angers,22-066,2000
-190,Youssouf Fofana,fr FRA,MT,Monaco,23-289,1999
-191,José Fonte,pt POR,DF,Lille,38-308,1983
-192,Przemysław Frankowski,pl POL,DFMT,Lens,27-197,1995
-193,Gauthier Gallon,fr FRA,GB,Troyes,29-186,1993
-194,Kévin Gameiro,fr FRA,AT,Strasbourg,35-170,1987
-195,Ignatius Ganago,cm CMR,AT,Lens,23-252,1999
-196,Ignatius Ganago,cm CMR,ATMT,Nantes,23-252,1999
-197,Johan Gastien,fr FRA,MT,Clermont Foot,34-274,1988
-198,Denis Genreau,au AUS,MTAT,Toulouse,23-158,1999
-199,Valère Germain,fr FRA,MTAT,Montpellier,32-192,1990
-200,Gerson,br BRA,MT,Marseille,25-159,1997
-201,Samuel Gigot,fr FRA,DF,Marseille,29-014,1993
-202,Andrei Girotto,br BRA,DFMT,Nantes,30-251,1992
-203,Aleksandr Golovin,ru RUS,MTAT,Monaco,26-149,1996
-204,André Gomes,pt POR,MT,Lille,29-088,1993
-205,Angel Gomes,eng ENG,MT,Lille,22-056,2000
-206,Maxime Gonalons,fr FRA,MT,Clermont Foot,33-230,1989
-207,Oumar Gonzalez,cm CMR,DF,Ajaccio,24-243,1998
-208,Amine Gouiri,fr FRA,AT,Rennes,22-252,2000
-209,Amine Gouiri,fr FRA,MTAT,Nice,22-252,2000
-210,Jonathan Gradit,fr FRA,DF,Lens,29-336,1992
-211,Andrew Gravillon,gp GLP,DF,Reims,24-260,1998
-212,Adrian Grbić,at AUT,MTAT,Lorient,26-083,1996
-213,Gabriel Gudmundsson,se SWE,MTDF,Lille,23-180,1999
-214,Axel Gueguin,fr FRA,MT,Montpellier,17-216,2005
-215,Mattéo Guendouzi,fr FRA,MT,Marseille,23-195,1999
-216,Evann Guessand,fr FRA,ATMT,Nantes,21-117,2001
-217,Pape Gueye,sn SEN,MTDF,Marseille,23-275,1999
-218,Sehrou Guirassy,gn GUI,MT,Rennes,26-228,1996
-219,Malo Gusto,fr FRA,DF,Lyon,19-160,2003
-220,Massadio Haïdara,ml MLI,DFMT,Lens,29-328,1992
-221,Achraf Hakimi,ma MAR,DFMT,Paris S-G,23-356,1998
-222,Romain Hamouma,fr FRA,AT,Ajaccio,35-211,1987
-223,Amine Harit,ma MAR,MT,Marseille,25-130,1997
-224,Rhys Healey,wls WAL,AT,Toulouse,27-324,1994
-225,Gauthier Hein,fr FRA,MT,Auxerre,26-080,1996
-226,Henrique,br BRA,DF,Lyon,28-184,1994
-227,Christophe Hérelle,mq MTQ,DF,Brest,30-065,1992
-228,Noah Holm,no NOR,MTAT,Reims,21-156,2001
-229,Franck Honorat,fr FRA,MTAT,Brest,26-076,1996
-230,Cédric Hountondji,bj BEN,DF,Angers,28-280,1994
-231,Adrien Hunou,fr FRA,MTAT,Angers,28-280,1994
-232,Mounaim El Idrissy,fr FRA,AT,Ajaccio,23-258,1999
-233,Rareş Ilie,ro ROU,MT,Nice,19-190,2003
-234,Bonke Innocent,ng NGA,MT,Lorient,26-279,1996
-235,Ismaily,br BRA,DF,Lille,32-288,1990
-236,Junya Ito,jp JPN,ATMT,Reims,29-231,1993
-237,Ismail Jakobs,sn SEN,DFMT,Monaco,23-070,1999
-238,Marin Jakoliš,hr CRO,MT,Angers,25-304,1996
-239,Luis Javier Suárez,co COL,AT,Marseille,24-328,1997
-240,Dany Jean,ht HAI,DF,Strasbourg,19-332,2002
-241,Julian Jeanvier,gn GUI,DF,Auxerre,30-209,1992
-242,Paul Joly,fr FRA,DF,Auxerre,22-141,2000
-243,Jubal,br BRA,DF,Auxerre,29-058,1993
-244,Christopher Jullien,fr FRA,DF,Montpellier,29-218,1993
-245,Issa Kaboré,bf BFA,DF,Marseille,21-167,2001
-246,Abdoul Kader Bamba,fr FRA,MT,Nantes,28-154,1994
-247,Gaël Kakuta,cd COD,AT,Lens,31-127,1991
-248,Arnaud Kalimuendo,fr FRA,ATMT,Rennes,20-279,2002
-249,Gedeon Kalulu,cd COD,DF,Lorient,25-058,1997
-250,Bingourou Kamara,sn SEN,GB,Montpellier,26-005,1996
-251,Nordine Kandil,fr FRA,MTAT,Strasbourg,20-360,2001
-252,Kévin Keben Biakolo,cm CMR,DF,Toulouse,18-273,2004
-253,Check Keita,fr FRA,DF,Reims,19-207,2003
-254,Saîf-Eddine Khaoui,tn TUN,MT,Clermont Foot,27-182,1995
-255,Wahbi Khazri,tn TUN,MTAT,Montpellier,31-260,1991
-256,Presnel Kimpembe,fr FRA,DF,Paris S-G,27-074,1995
-257,Sead Kolašinac,ba BIH,DF,Marseille,29-128,1993
-258,Ibrahima Koné,ml MLI,AT,Lorient,23-132,1999
-259,Youssouf Koné,ml MLI,DF,Ajaccio,27-113,1995
-260,Rominigue Kouamé,ml MLI,MT,Troyes,25-313,1996
-261,Sael Kumbedi,fr FRA,DF,Lyon,17-214,2005
-262,Grejohn Kyei,fr FRA,AT,Clermont Foot,27-075,1995
-263,Gaëtan Laborde,fr FRA,AT,Rennes,28-176,1994
-264,Gaëtan Laborde,fr FRA,ATMT,Nice,28-176,1994
-265,Alexandre Lacazette,fr FRA,AT,Lyon,31-151,1991
-266,Qazim Laçi,al ALB,MT,Ajaccio,26-280,1996
-267,Alban Lafont,fr FRA,GB,Nantes,23-276,1999
-268,Mohamed Lamine Bayo,gn GUI,ATMT,Lille,24-144,1998
-269,Julien Laporte,fr FRA,DF,Lorient,28-356,1993
-270,Yasser Larouci,dz ALG,DF,Troyes,21-298,2001
-271,Armand Lauriente,fr FRA,MTAT,Lorient,23-326,1998
-272,Théo Le Bris,fr FRA,DFMT,Lorient,20-025,2002
-273,Jérémy Le Douaron,fr FRA,ATMT,Brest,24-188,1998
-274,Enzo Le Fée,fr FRA,MT,Lorient,22-265,2000
-275,Vincent Le Goff,fr FRA,DF,Lorient,33-011,1989
-276,Maxime Le Marchand,fr FRA,DF,Strasbourg,33-015,1989
-277,Pierre Lees-Melou,fr FRA,MT,Brest,29-154,1993
-278,Mario Lemina,ga GAB,MTDF,Nice,29-055,1993
-279,Johann Lepenant,fr FRA,MT,Lyon,20-004,2002
-280,Benjamin Leroy,fr FRA,GB,Ajaccio,33-202,1989
-281,Léo Leroy,fr FRA,MT,Montpellier,22-254,2000
-282,Dimitri Liénard,fr FRA,DF,Strasbourg,34-255,1988
-283,Mateusz Lis,pl POL,GB,Troyes,25-241,1997
-284,Banzouzi Locko,fr FRA,DF,Reims,20-173,2002
-285,Anthony Lopes,pt POR,GB,Lyon,32-025,1990
-286,Rony Lopes,pt POR,MTAT,Troyes,26-302,1995
-287,Pau López,es ESP,GB,Marseille,27-317,1994
-288,Dion Lopy,sn SEN,MT,Reims,20-266,2002
-289,Jordan Lotomba,ch SUI,DFMT,Nice,24-027,1998
-290,Jean Lucas,br BRA,MT,Monaco,24-126,1998
-291,Castello Lukeba,fr FRA,DF,Lyon,19-313,2002
-292,Youssouf M'Changama,km COM,MT,Auxerre,32-058,1990
-293,Deiver Machado,co COL,DFMT,Lens,29-054,1993
-294,Soungoutou Magassa,ml MLI,MT,Monaco,19-018,2003
-295,Hugo Magnetti,fr FRA,MT,Brest,24-149,1998
-296,Yohann Magnin,fr FRA,MTDF,Clermont Foot,25-127,1997
-297,Lovro Majer,hr CRO,MTAT,Rennes,24-282,1998
-298,Béni Makouana,cg CGO,MT,Montpellier,20-028,2002
-299,Hianga Mananga Mbock,fr FRA,MT,Brest,22-302,1999
-300,Steve Mandanda,fr FRA,GB,Rennes,37-212,1985
-301,Thomas Mangani,fr FRA,MT,Ajaccio,35-180,1987
-302,Faitout Maouassa,fr FRA,MT,Montpellier,24-112,1998
-303,Vincent Marchetti,fr FRA,MT,Ajaccio,25-114,1997
-304,Guillermo Maripán,cl CHI,DF,Monaco,28-173,1994
-305,Marquinhos,br BRA,DF,Paris S-G,28-165,1994
-306,Jonas Martin,fr FRA,MT,Lille,32-200,1990
-307,Gelson Martins,pt POR,MT,Monaco,27-168,1995
-308,Yanis Massolin,fr FRA,MT,Clermont Foot,20-036,2002
-309,Eliot Matazo,be BEL,MTAT,Monaco,20-253,2002
-310,Chrislain Matsima,fr FRA,DFMT,Lorient,20-164,2002
-311,Azor Matusiwa,nl NED,MT,Reims,24-181,1998
-312,Stephy Mavididi,eng ENG,MT,Montpellier,24-148,1998
-313,Fernand Mayembo,cg CGO,DF,Ajaccio,26-290,1996
-314,Kylian Mbappé,fr FRA,AT,Paris S-G,23-310,1998
-315,Chancel Mbemba,cd COD,DF,Marseille,28-079,1994
-316,Nathanael Mbuku,fr FRA,MTAT,Reims,20-224,2002
-317,Facundo Medina,ar ARG,DF,Lens,23-151,1999
-318,Farid El Melali,dz ALG,AT,Angers,25-174,1997
-319,Birger Meling,no NOR,DFAT,Rennes,27-313,1994
-320,Nuno Mendes,pt POR,DFMT,Paris S-G,20-129,2002
-321,Thiago Mendes,br BRA,DFMT,Lyon,30-225,1992
-322,Antoine Mendy,fr FRA,DF,Nice,18-152,2004
-323,Arial Mendy,sn SEN,DF,Clermont Foot,27-353,1994
-324,Batista Mendy,fr FRA,MTDF,Angers,22-287,2000
-325,Gideon Mensah,gh GHA,DF,Auxerre,24-100,1998
-326,Quentin Merlin,fr FRA,DFMT,Nantes,20-163,2002
-327,Lionel Messi,ar ARG,MTAT,Paris S-G,35-124,1987
-328,Arkadiusz Milik,pl POL,AT,Marseille,28-240,1994
-329,Takumi Minamino,jp JPN,MTAT,Monaco,27-283,1995
-330,Terem Moffi,ng NGA,AT,Lorient,23-154,1999
-331,Mostafa Mohamed,eg EGY,AT,Nantes,24-332,1997
-332,Marlos Moreno,co COL,DF,Troyes,26-036,1996
-333,Lebo Mothiba,za RSA,ATMT,Strasbourg,26-271,1996
-334,Steve Mounié,bj BEN,AT,Brest,28-027,1994
-335,Bevic Moussiti-Oko,cg CGO,AT,Ajaccio,27-271,1995
-336,Samuel Moutoussamy,cd COD,MT,Nantes,26-075,1996
-337,Nordi Mukiele,fr FRA,DF,Paris S-G,24-359,1997
-338,Marshall Munetsi,zw ZIM,MT,Reims,26-126,1996
-339,Yvon Mvogo,ch SUI,GB,Lorient,28-142,1994
-340,Nathan N'Goumou,fr FRA,MT,Toulouse,22-226,2000
-341,Papa Ndiaga Yade,sn SEN,DFMT,Troyes,22-294,2000
-342,Neymar,br BRA,MTAT,Paris S-G,30-263,1992
-343,M'Baye Niang,sn SEN,AT,Auxerre,27-311,1994
-344,Rasmus Nicolaisen,dk DEN,DF,Toulouse,25-224,1997
-345,Arnaud Nordin,fr FRA,MT,Montpellier,24-131,1998
-346,Riad Nouri,fr FRA,MT,Ajaccio,37-141,1985
-347,Alexander Nübel,de GER,GB,Monaco,26-026,1996
-348,Gerzino Nyamsi,fr FRA,DF,Strasbourg,25-277,1997
-349,Wilson Odobert,fr FRA,MT,Troyes,17-332,2004
-350,Florent Ogier,fr FRA,DF,Clermont Foot,33-219,1989
-351,Jonas Omlin,ch SUI,GB,Montpellier,28-289,1994
-352,Ado Onaiwu,jp JPN,ATMT,Toulouse,26-352,1995
-353,Jean Onana,cm CMR,MT,Lens,22-291,2000
-354,Loïs Openda,be BEL,AT,Lens,22-252,2000
-355,Dango Ouattara,bf BFA,MTAT,Lorient,20-257,2002
-356,Azzedine Ounahi,ma MAR,MT,Angers,22-190,2000
-357,Adam Ounas,dz ALG,MTAT,Lille,25-349,1996
-358,Nicolas Pallois,fr FRA,DF,Nantes,35-037,1987
-359,Erik Palmer-Brown,us USA,DF,Troyes,25-185,1997
-360,Lucas Paquetá,br BRA,MT,Lyon,25-060,1997
-361,Leandro Paredes,ar ARG,MT,Paris S-G,28-119,1994
-362,Dimitri Payet,fr FRA,MT,Marseille,35-211,1987
-363,Patrick Pentz,at AUT,GB,Reims,25-297,1997
-364,Nicolas Pépé,ci CIV,MTAT,Nice,27-150,1995
-365,Brayann Pereira,fr FRA,DF,Auxerre,19-158,2003
-366,Danilo Pereira,pt POR,DFMT,Paris S-G,31-047,1991
-367,Mathias Pereira Lage,pt POR,MTAT,Brest,25-330,1996
-368,Gaëtan Perrin,fr FRA,MT,Auxerre,26-141,1996
-369,Lucas Perrin,fr FRA,DF,Strasbourg,23-341,1998
-370,Ronaël Pierre-Gabriel,fr FRA,DF,Strasbourg,24-135,1998
-371,Julien Ponceau,fr FRA,MT,Lorient,21-332,2000
-372,Łukasz Poręba,pl POL,MT,Lens,22-227,2000
-373,Jackson Porozo,ec ECU,DF,Troyes,22-083,2000
-374,Sanjin Prcić,ba BIH,MT,Strasbourg,28-340,1993
-375,Ghjuvanni Quilichini,fr FRA,GB,Ajaccio,20-055,2002
-376,Adil Rami,fr FRA,DF,Troyes,36-303,1985
-377,Sergio Ramos,es ESP,DF,Paris S-G,36-210,1986
-378,Aaron Ramsey,wls WAL,MT,Nice,31-304,1990
-379,Elba Rashani,xk KVX,MTDF,Clermont Foot,29-170,1993
-380,Rafael Ratão,br BRA,MTAT,Toulouse,26-330,1995
-381,Rayan Raveloson,mg MAD,MT,Auxerre,25-283,1997
-382,Jeff Reine-Adélaïde,fr FRA,MT,Lyon,24-282,1998
-383,Alexsandro Ribeiro,br BRA,DF,Lille,23-078,1999
-384,Rémy Riou,fr FRA,GB,Lyon,35-081,1987
-385,Renaud Ripart,fr FRA,MTAT,Troyes,29-226,1993
-386,Joe Rodon,wls WAL,DF,Rennes,25-004,1997
-387,Valentin Rongier,fr FRA,MT,Marseille,27-323,1994
-388,Pablo Rosario,nl NED,MTDF,Nice,25-292,1997
-389,Anthony Rouault,fr FRA,DF,Toulouse,21-150,2001
-390,Kays Ruiz,ma MAR,MT,Auxerre,20-061,2002
-391,Fabián Ruiz Peña,es ESP,MT,Paris S-G,26-206,1996
-392,Halid Šabanović,ba BIH,DFAT,Angers,23-065,1999
-393,Falaye Sacko,ml MLI,DF,Montpellier,27-178,1995
-394,Wesley Saïd,fr FRA,ATMT,Lens,27-190,1995
-395,Théo Sainte-Luce,fr FRA,DF,Montpellier,24-006,1998
-396,Hamza Sakhi,ma MAR,MT,Auxerre,26-141,1996
-397,Mamadou Sakho,fr FRA,DF,Montpellier,32-255,1990
-398,Amine Salama,fr FRA,ATMT,Angers,22-100,2000
-399,Yoann Salmier,gf GUF,DF,Troyes,29-339,1992
-400,Mama Samba Baldé,gw GNB,AT,Troyes,26-354,1995
-401,Brice Samba,cg CGO,GB,Lens,28-184,1994
-402,Renato Sanches,pt POR,MT,Paris S-G,25-069,1997
-403,Alexis Sánchez,cl CHI,ATMT,Marseille,33-311,1988
-404,Baptiste Santamaria,fr FRA,MT,Rennes,27-231,1995
-405,Pablo Sarabia,es ESP,ATMT,Paris S-G,30-168,1992
-406,Muhammed Saracevic Cham,at AUT,MT,Clermont Foot,22-030,2000
-407,Malang Sarr,fr FRA,DF,Monaco,23-276,1999
-408,Téji Savanier,fr FRA,MT,Montpellier,30-308,1991
-409,Kasper Schmeichel,dk DEN,GB,Nice,35-355,1986
-410,Alidu Seidu,gh GHA,DF,Clermont Foot,22-144,2000
-411,Matz Sels,be BEL,GB,Strasbourg,30-242,1992
-412,Marvin Senaya,tg TOG,DF,Strasbourg,21-271,2001
-413,Caio Henrique Oliveira Silva,br BRA,DFMT,Monaco,25-087,1997
-414,Abdallah Sima,sn SEN,AT,Angers,21-131,2001
-415,Moses Simon,ng NGA,MTAT,Nantes,27-106,1995
-416,Lassine Sinayoko,ml MLI,MTAT,Auxerre,22-322,1999
-417,Ibrahima Sissoko,fr FRA,MT,Strasbourg,24-364,1997
-418,Moussa Sissoko,fr FRA,MT,Nantes,33-071,1989
-419,Islam Slimani,dz ALG,AT,Brest,34-130,1988
-420,Carlos Soler,es ESP,MT,Paris S-G,25-297,1997
-421,François-Joseph Sollacaro,fr FRA,GB,Ajaccio,28-219,1994
-422,Florian Sotoca,fr FRA,ATMT,Lens,32-001,1990
-423,Arnaud Souquet,fr FRA,DFMT,Montpellier,30-256,1992
-424,Kevin Spadanuda,ch SUI,MT,Ajaccio,25-283,1997
-425,Stijn Spierings,nl NED,MT,Toulouse,26-228,1996
-426,Calvin Stengs,nl NED,MTAT,Nice,23-312,1998
-427,Kamaldeen Sulemana,gh GHA,ATMT,Rennes,20-253,2002
-428,Issiaga Sylla,gn GUI,DF,Toulouse,28-298,1994
-429,Nicolás Tagliafico,ar ARG,DF,Lyon,30-056,1992
-430,Waniss Taibi,fr FRA,MT,Angers,20-233,2002
-431,Flavien Tait,fr FRA,MT,Rennes,29-266,1993
-432,Montassar Talbi,tn TUN,DF,Lorient,24-153,1998
-433,Florian Tardieu,fr FRA,MT,Troyes,30-187,1992
-434,Nuno Tavares,pt POR,DF,Marseille,22-273,2000
-435,Enzo Tchato,cm CMR,DF,Montpellier,19-337,2002
-436,Martin Terrier,fr FRA,ATMT,Rennes,25-236,1997
-437,Tetê,br BRA,ATMT,Lyon,22-253,2000
-438,Arthur Theate,be BEL,DF,Rennes,22-154,2000
-439,Sada Thioub,sn SEN,MTAT,Angers,27-147,1995
-440,Adrien Thomasson,fr FRA,MT,Strasbourg,28-320,1993
-441,Khéphren Thuram-Ulie,fr FRA,MT,Nice,21-214,2001
-442,Jean-Clair Todibo,fr FRA,DF,Nice,22-300,1999
-443,Karl Toko Ekambi,cm CMR,ATMT,Lyon,30-042,1992
-444,Corentin Tolisso,fr FRA,MT,Lyon,28-084,1994
-445,Birama Touré,ml MLI,MT,Auxerre,30-142,1992
-446,Souleymane Touré,fr FRA,DF,Marseille,19-212,2003
-447,Yoann Touzghar,tn TUN,AT,Ajaccio,35-332,1986
-448,Hamari Traoré,ml MLI,DF,Rennes,30-272,1992
-449,Adrien Truffert,fr FRA,DF,Rennes,20-340,2001
-450,Ike Ugbo,ca CAN,ATMT,Troyes,24-035,1998
-451,Chimuanya Ugochukwu,fr FRA,MT,Rennes,18-214,2004
-452,Cengiz Ünder,tr TUR,MT,Marseille,25-104,1997
-453,Jere Uronen,fi FIN,DF,Brest,28-105,1994
-454,Yan Valery,tn TUN,DFAT,Angers,23-246,1999
-455,Vanderson,br BRA,DFMT,Monaco,21-127,2001
-456,Jordan Veretout,fr FRA,MT,Marseille,29-239,1993
-457,Marco Verratti,it ITA,MT,Paris S-G,29-355,1992
-458,Clément Vidal,fr FRA,DF,Ajaccio,22-130,2000
-459,Alan Virginius,fr FRA,MTAT,Lille,19-296,2003
-460,Mattia Viti,it ITA,DF,Nice,20-275,2002
-461,Vitinha,pt POR,MT,Paris S-G,22-255,2000
-462,Kevin Volland,de GER,AT,Monaco,30-088,1992
-463,Timothy Weah,us USA,MT,Lille,22-246,2000
-464,Mateusz Wieteska,pl POL,DF,Clermont Foot,25-257,1997
-465,Christopher Wooh,cm CMR,DF,Rennes,21-038,2001
-466,Christopher Wooh,cm CMR,MT,Lens,21-038,2001
-467,Xeka,pt POR,MT,Rennes,27-350,1994
-468,Yusuf Yazıcı,tr TUR,MT,Lille,25-270,1997
-469,Darlin Yongwa,cm CMR,ATDF,Lorient,22-034,2000
-470,Leny Yoro,fr FRA,DF,Lille,16-347,2005
-471,Mohamed Youssouf,km COM,DF,Ajaccio,34-214,1988
-472,Warren Zaire-Emery,fr FRA,MT,Paris S-G,16-232,2006
-473,Oliver Zandén,se SWE,DFMT,Toulouse,21-073,2001
-474,Akim Zedadka,dz ALG,DFMT,Lille,27-149,1995
-475,Mehdi Zeffane,dz ALG,MTDF,Clermont Foot,30-160,1992
-476,Arber Zeneli,xk KVX,ATMT,Reims,27-243,1995
-477,Edon Zhegrova,xk KVX,MT,Lille,23-209,1999
+Clt,Joueur,Pos,Naissance,Équipe
+1,Yunis Abdelhamid,DF,1987,Reims
+2,Himad Abdelli,MT,1999,Angers
+3,Salis Abdul Samed,MT,2000,Lens
+4,Laurent Abergel,MT,1993,Lorient
+5,Matthis Abline,ATMT,2003,Rennes
+6,Zakaria Aboukhlal,MTAT,2000,Toulouse
+7,Mohamed Achi,MTAT,2002,Nantes
+8,Martin Adeline,MTAT,2003,Reims
+9,Emmanuel Agbadou,DF,1997,Reims
+10,Lucien Agoume,MT,2002,Troyes
+11,Ruben Aguilar,DF,1993,Monaco
+12,Jean-Eudes Aholou,MT,1994,Strasbourg
+13,Ludovic Ajorque,AT,1994,Strasbourg
+14,Maghnes Akliouche,MTAT,2002,Monaco
+15,Doğan Alemdar,GB,2002,Rennes
+16,Jim Allevinah,MT,1995,Clermont Foot
+17,Mickaël Alphonse,DF,1989,Ajaccio
+18,Ibrahim Amadou,DFMT,1993,Angers
+19,Benjamin André,MT,1990,Lille
+20,Komnen Andrić,AT,1995,Clermont Foot
+21,Houssem Aouar,MT,1998,Lyon
+22,Adil Aouchiche,MT,2002,Lorient
+23,Dennis Appiah,DFMT,1992,Nantes
+24,Lorenz Assignon,DFMT,2000,Rennes
+25,Youcef Atal,DFMT,1996,Nice
+26,Mathias Autret,MT,1991,Auxerre
+27,Cédric Avinel,DF,1986,Ajaccio
+28,Loïc Bade,DF,2000,Rennes
+29,Benoît Badiashile,DF,2001,Monaco
+30,Eric Bailly,DF,1994,Marseille
+31,Dénys Bain,DF,1993,Auxerre
+32,Brandon Baiye,MT,2000,Clermont Foot
+33,Cédric Bakambu,MT,1991,Marseille
+34,Thierno Balde,DF,2002,Troyes
+35,Carlos Baleba,MT,2004,Lille
+36,Leonardo Balerdi,DF,1999,Marseille
+37,Folarin Balogun,AT,2001,Reims
+38,Abdoulaye Bamba,DF,1990,Angers
+39,Jonathan Bamba,MT,1996,Lille
+40,Bradley Barcola,MTAT,2002,Lyon
+41,Melvin Bard,DF,2000,Nice
+42,Ross Barkley,MTAT,1993,Nice
+43,Mickaël Barreto,MT,1991,Ajaccio
+44,Cyrille Bayala,MT,1996,Ajaccio
+45,Yanis Begraoui,MT,2001,Toulouse
+46,Alexis Beka Beka,MT,2001,Nice
+47,Jérémie Bela,DFMT,1993,Clermont Foot
+48,Youcef Belaïli,MTAT,1992,Ajaccio
+49,Youcef Belaïli,MTAT,1992,Brest
+50,Haris Belkebla,MT,1994,Brest
+51,Jean-Ricner Bellegarde,MTDF,1998,Strasbourg
+52,Wissam Ben Yedder,AT,1990,Monaco
+53,Nabil Bentaleb,MT,1994,Angers
+54,Patrick Berg,MTAT,1997,Lens
+55,Mitchell van Bergen,DFAT,1999,Reims
+56,Quentin Bernard,DF,1989,Auxerre
+57,Paul Bernardoni,GB,1997,Angers
+58,Juan Bernat,DFMT,1993,Paris S-G
+59,Jason Berthomier,MT,1990,Clermont Foot
+60,El Bilal Touré,AT,2001,Reims
+61,Jean-Claude Billong,MT,1993,Clermont Foot
+62,Veljko Birmančević,MTDF,1998,Toulouse
+63,Marco Bizot,GB,1991,Brest
+64,Rubén Blanco,GB,1995,Marseille
+65,Ludovic Blas,MTAT,1997,Nantes
+66,Miha Blažič,DF,1993,Angers
+67,Myron Boadu,AT,2001,Monaco
+68,Jérôme Boateng,DF,1988,Lyon
+69,Antonin Bobichon,MT,1995,Angers
+70,Quentin Boisgard,MT,1997,Lorient
+71,Neto Borges,DF,1996,Clermont Foot
+72,Kenji-Van Boto,DF,1996,Auxerre
+73,Kouamé Botué,AT,2002,Ajaccio
+74,Hicham Boudaoui,MT,1999,Nice
+75,Sofiane Boufal,MTAT,1993,Angers
+76,Ismaëlben Boura,DFAT,2000,Lens
+77,Benjamin Bourigeaud,MTAT,1994,Rennes
+78,Bilal Brahimi,ATMT,2000,Nice
+79,Lilian Brassier,DF,1999,Brest
+80,Andreas Bruus,DFMT,1999,Troyes
+81,Joe Bryan,MTDF,1993,Nice
+82,Adam Buksa,ATMT,1996,Lens
+83,Marcin Bułka,GB,1999,Nice
+84,Maxime Busi,DF,1999,Reims
+85,Rémy Cabella,MT,1990,Lille
+86,Jimmy Cabot,DFMT,1994,Lens
+87,Jens Cajuste,MT,1999,Reims
+88,Duje Ćaleta-Car,DF,1996,Marseille
+89,Mahdi Camara,MTDF,1998,Brest
+90,Mohamed Camara,MT,2000,Monaco
+91,Ousmane Camara,DF,2003,Angers
+92,Axel Camblan,AT,2003,Brest
+93,Pierrick Capelle,MTDF,1987,Angers
+94,Maxence Caqueret,MT,2000,Lyon
+95,Irvin Cardona,ATMT,1997,Brest
+96,Matis Carvalho,GB,1999,Montpellier
+97,Jean-Charles Castelletto,DF,1995,Nantes
+98,Yoann Cathline,MT,2002,Lorient
+99,Maximiliano Caufriez,DF,1997,Clermont Foot
+100,Fabien Centonze,DF,1996,Nantes
+101,Leonardo César Jardim,GB,1995,Lille
+102,El Chadaille Bitshiabu,DF,2005,Paris S-G
+103,Fares Chaïbi,ATMT,2002,Toulouse
+104,Gaëtan Charbonnier,AT,1988,Auxerre
+105,Brendan Chardonnet,DF,1994,Brest
+106,Xavier Chavalerin,MT,1991,Troyes
+107,Rayan Cherki,MTAT,2003,Lyon
+108,Ilyes Cheti,DF,1995,Angers
+109,Lucas Chevalier,GB,2001,Lille
+110,Pedro Chirivella,MT,1997,Nantes
+111,Joris Chotard,MT,2001,Montpellier
+112,Yanis Cimignani,MTDF,2002,Ajaccio
+113,Souleymane Cissé,DF,2002,Clermont Foot
+114,Alexis Claude-Maurice,MT,1998,Nice
+115,Alexis Claude-Maurice,MTDF,1998,Lens
+116,Jonathan Clauss,DF,1992,Marseille
+117,Marcus Coco,DFAT,1996,Nantes
+118,Alexandre Coeff,DF,1992,Auxerre
+119,Abdu Conté,DF,1998,Troyes
+120,Sébastien Corchia,DFMT,1990,Nantes
+121,David Pereira da Costa,MTAT,2001,Lens
+122,Logan Costa,DF,2001,Toulouse
+123,Nuno da Costa,ATMT,1991,Auxerre
+124,Benoît Costil,GB,1987,Auxerre
+125,Mathieu Coutadeur,MT,1986,Ajaccio
+126,Nicolas Cozza,DF,1999,Montpellier
+127,Damien Da Silva,DF,1988,Lyon
+128,Colin Dagba,DF,1998,Strasbourg
+129,Thijs Dallinga,AT,2000,Toulouse
+130,Flavius Daniliuc,DF,2001,Nice
+131,Kevin Danso,DF,1998,Lens
+132,Dante,DF,1983,Nice
+133,Achraf Dari,DF,1999,Brest
+134,Jonathan David,ATMT,2000,Lille
+135,Brecht Dejaegere,MT,1991,Toulouse
+136,Romain Del Castillo,MTAT,1996,Brest
+137,Thomas Delaine,DF,1992,Strasbourg
+138,Sacha Delaye,ATMT,2002,Montpellier
+139,Andy Delort,AT,1991,Nice
+140,Karamoko Dembele,ATMT,2003,Brest
+141,Moussa Dembélé,ATMT,1996,Lyon
+142,Branco van den Boomen,MT,1995,Toulouse
+143,Mikkel Desler,DF,1995,Toulouse
+144,Bafodé Diakité,DF,2001,Lille
+145,Ibrahim Diakité,DF,2003,Reims
+146,Habib Diallo,AT,1995,Strasbourg
+147,Ismael Diallo,DF,1997,Ajaccio
+148,Mouhamadou Diarra,MT,2004,Strasbourg
+149,Moussa Diarra,DF,2000,Toulouse
+150,Stéphane Diarra,MTAT,1998,Lorient
+151,Krepin Diatta,MTAT,1999,Monaco
+152,Mory Diaw,GB,1993,Clermont Foot
+153,Bamba Dieng,ATDF,2000,Marseille
+154,Tristan Dingomé,MTDF,1991,Troyes
+155,Sinaly Diomande,DF,2001,Lyon
+156,Lois Diony,AT,1992,Angers
+157,Sofiane Diop,MTAT,2000,Nice
+158,Sofiane Diop,MT,2000,Monaco
+159,Yehvann Diouf,GB,1999,Reims
+160,Axel Disasi,DF,1998,Monaco
+161,Tiago Djaló,DF,2000,Lille
+162,Alexander Djiku,DF,1994,Strasbourg
+163,Jeremy Doku,ATMT,2002,Rennes
+164,Kyliane Dong,DFMT,2004,Troyes
+165,Gianluigi Donnarumma,GB,1999,Paris S-G
+166,Jodel Dossou,MTDF,1992,Clermont Foot
+167,Lohann Doucet,MTAT,2002,Nantes
+168,Ckene Doucouré,ATMT,2002,Lorient
+169,Désiré Doué,MTAT,2005,Rennes
+170,Ismaël Doukouré,DF,2003,Strasbourg
+171,Kamory Doumbia,MT,2003,Reims
+172,Souleyman Doumbia,DFAT,1996,Angers
+173,Rémy Dugimont,MTAT,1986,Auxerre
+174,Maxime Dupé,GB,1993,Toulouse
+175,Jean-Kevin Duverne,DF,1997,Brest
+176,Hugo Ekitike,ATMT,2002,Paris S-G
+177,Sepe Elye Wahi,ATMT,2003,Montpellier
+178,Breel Embolo,AT,1997,Monaco
+179,Maxime Estève,DF,2002,Montpellier
+180,Fábio,DFMT,1990,Nantes
+181,Noah Fadiga,DF,1999,Brest
+182,Wout Faes,DF,1998,Reims
+183,Romain Faivre,MT,1998,Lyon
+184,Khalil Fayad,MT,2004,Montpellier
+185,Jordan Ferri,MT,1992,Montpellier
+186,Karol Fila,DF,1998,Strasbourg
+187,Alexis Flips,DFMT,2000,Reims
+188,Seko Fofana,MT,1995,Lens
+189,Yahia Fofana,GB,2000,Angers
+190,Youssouf Fofana,MT,1999,Monaco
+191,José Fonte,DF,1983,Lille
+192,Przemysław Frankowski,DFMT,1995,Lens
+193,Gauthier Gallon,GB,1993,Troyes
+194,Kévin Gameiro,AT,1987,Strasbourg
+195,Ignatius Ganago,AT,1999,Lens
+196,Ignatius Ganago,ATMT,1999,Nantes
+197,Johan Gastien,MT,1988,Clermont Foot
+198,Denis Genreau,MTAT,1999,Toulouse
+199,Valère Germain,MTAT,1990,Montpellier
+200,Gerson,MT,1997,Marseille
+201,Samuel Gigot,DF,1993,Marseille
+202,Andrei Girotto,DFMT,1992,Nantes
+203,Aleksandr Golovin,MTAT,1996,Monaco
+204,André Gomes,MT,1993,Lille
+205,Angel Gomes,MT,2000,Lille
+206,Maxime Gonalons,MT,1989,Clermont Foot
+207,Oumar Gonzalez,DF,1998,Ajaccio
+208,Amine Gouiri,AT,2000,Rennes
+209,Amine Gouiri,MTAT,2000,Nice
+210,Jonathan Gradit,DF,1992,Lens
+211,Andrew Gravillon,DF,1998,Reims
+212,Adrian Grbić,MTAT,1996,Lorient
+213,Gabriel Gudmundsson,MTDF,1999,Lille
+214,Axel Gueguin,MT,2005,Montpellier
+215,Mattéo Guendouzi,MT,1999,Marseille
+216,Evann Guessand,ATMT,2001,Nantes
+217,Pape Gueye,MTDF,1999,Marseille
+218,Sehrou Guirassy,MT,1996,Rennes
+219,Malo Gusto,DF,2003,Lyon
+220,Massadio Haïdara,DFMT,1992,Lens
+221,Achraf Hakimi,DFMT,1998,Paris S-G
+222,Romain Hamouma,AT,1987,Ajaccio
+223,Amine Harit,MT,1997,Marseille
+224,Rhys Healey,AT,1994,Toulouse
+225,Gauthier Hein,MT,1996,Auxerre
+226,Henrique,DF,1994,Lyon
+227,Christophe Hérelle,DF,1992,Brest
+228,Noah Holm,MTAT,2001,Reims
+229,Franck Honorat,MTAT,1996,Brest
+230,Cédric Hountondji,DF,1994,Angers
+231,Adrien Hunou,MTAT,1994,Angers
+232,Mounaim El Idrissy,AT,1999,Ajaccio
+233,Rareş Ilie,MT,2003,Nice
+234,Bonke Innocent,MT,1996,Lorient
+235,Ismaily,DF,1990,Lille
+236,Junya Ito,ATMT,1993,Reims
+237,Ismail Jakobs,DFMT,1999,Monaco
+238,Marin Jakoliš,MT,1996,Angers
+239,Luis Javier Suárez,AT,1997,Marseille
+240,Dany Jean,DF,2002,Strasbourg
+241,Julian Jeanvier,DF,1992,Auxerre
+242,Paul Joly,DF,2000,Auxerre
+243,Jubal,DF,1993,Auxerre
+244,Christopher Jullien,DF,1993,Montpellier
+245,Issa Kaboré,DF,2001,Marseille
+246,Abdoul Kader Bamba,MT,1994,Nantes
+247,Gaël Kakuta,AT,1991,Lens
+248,Arnaud Kalimuendo,ATMT,2002,Rennes
+249,Gedeon Kalulu,DF,1997,Lorient
+250,Bingourou Kamara,GB,1996,Montpellier
+251,Nordine Kandil,MTAT,2001,Strasbourg
+252,Kévin Keben Biakolo,DF,2004,Toulouse
+253,Check Keita,DF,2003,Reims
+254,Saîf-Eddine Khaoui,MT,1995,Clermont Foot
+255,Wahbi Khazri,MTAT,1991,Montpellier
+256,Presnel Kimpembe,DF,1995,Paris S-G
+257,Sead Kolašinac,DF,1993,Marseille
+258,Ibrahima Koné,AT,1999,Lorient
+259,Youssouf Koné,DF,1995,Ajaccio
+260,Rominigue Kouamé,MT,1996,Troyes
+261,Sael Kumbedi,DF,2005,Lyon
+262,Grejohn Kyei,AT,1995,Clermont Foot
+263,Gaëtan Laborde,AT,1994,Rennes
+264,Gaëtan Laborde,ATMT,1994,Nice
+265,Alexandre Lacazette,AT,1991,Lyon
+266,Qazim Laçi,MT,1996,Ajaccio
+267,Alban Lafont,GB,1999,Nantes
+268,Mohamed Lamine Bayo,ATMT,1998,Lille
+269,Julien Laporte,DF,1993,Lorient
+270,Yasser Larouci,DF,2001,Troyes
+271,Armand Lauriente,MTAT,1998,Lorient
+272,Théo Le Bris,DFMT,2002,Lorient
+273,Jérémy Le Douaron,ATMT,1998,Brest
+274,Enzo Le Fée,MT,2000,Lorient
+275,Vincent Le Goff,DF,1989,Lorient
+276,Maxime Le Marchand,DF,1989,Strasbourg
+277,Pierre Lees-Melou,MT,1993,Brest
+278,Mario Lemina,MTDF,1993,Nice
+279,Johann Lepenant,MT,2002,Lyon
+280,Benjamin Leroy,GB,1989,Ajaccio
+281,Léo Leroy,MT,2000,Montpellier
+282,Dimitri Liénard,DF,1988,Strasbourg
+283,Mateusz Lis,GB,1997,Troyes
+284,Banzouzi Locko,DF,2002,Reims
+285,Anthony Lopes,GB,1990,Lyon
+286,Rony Lopes,MTAT,1995,Troyes
+287,Pau López,GB,1994,Marseille
+288,Dion Lopy,MT,2002,Reims
+289,Jordan Lotomba,DFMT,1998,Nice
+290,Jean Lucas,MT,1998,Monaco
+291,Castello Lukeba,DF,2002,Lyon
+292,Youssouf M'Changama,MT,1990,Auxerre
+293,Deiver Machado,DFMT,1993,Lens
+294,Soungoutou Magassa,MT,2003,Monaco
+295,Hugo Magnetti,MT,1998,Brest
+296,Yohann Magnin,MTDF,1997,Clermont Foot
+297,Lovro Majer,MTAT,1998,Rennes
+298,Béni Makouana,MT,2002,Montpellier
+299,Hianga Mananga Mbock,MT,1999,Brest
+300,Steve Mandanda,GB,1985,Rennes
+301,Thomas Mangani,MT,1987,Ajaccio
+302,Faitout Maouassa,MT,1998,Montpellier
+303,Vincent Marchetti,MT,1997,Ajaccio
+304,Guillermo Maripán,DF,1994,Monaco
+305,Marquinhos,DF,1994,Paris S-G
+306,Jonas Martin,MT,1990,Lille
+307,Gelson Martins,MT,1995,Monaco
+308,Yanis Massolin,MT,2002,Clermont Foot
+309,Eliot Matazo,MTAT,2002,Monaco
+310,Chrislain Matsima,DFMT,2002,Lorient
+311,Azor Matusiwa,MT,1998,Reims
+312,Stephy Mavididi,MT,1998,Montpellier
+313,Fernand Mayembo,DF,1996,Ajaccio
+314,Kylian Mbappé,AT,1998,Paris S-G
+315,Chancel Mbemba,DF,1994,Marseille
+316,Nathanael Mbuku,MTAT,2002,Reims
+317,Facundo Medina,DF,1999,Lens
+318,Farid El Melali,AT,1997,Angers
+319,Birger Meling,DFAT,1994,Rennes
+320,Nuno Mendes,DFMT,2002,Paris S-G
+321,Thiago Mendes,DFMT,1992,Lyon
+322,Antoine Mendy,DF,2004,Nice
+323,Arial Mendy,DF,1994,Clermont Foot
+324,Batista Mendy,MTDF,2000,Angers
+325,Gideon Mensah,DF,1998,Auxerre
+326,Quentin Merlin,DFMT,2002,Nantes
+327,Lionel Messi,MTAT,1987,Paris S-G
+328,Arkadiusz Milik,AT,1994,Marseille
+329,Takumi Minamino,MTAT,1995,Monaco
+330,Terem Moffi,AT,1999,Lorient
+331,Mostafa Mohamed,AT,1997,Nantes
+332,Marlos Moreno,DF,1996,Troyes
+333,Lebo Mothiba,ATMT,1996,Strasbourg
+334,Steve Mounié,AT,1994,Brest
+335,Bevic Moussiti-Oko,AT,1995,Ajaccio
+336,Samuel Moutoussamy,MT,1996,Nantes
+337,Nordi Mukiele,DF,1997,Paris S-G
+338,Marshall Munetsi,MT,1996,Reims
+339,Yvon Mvogo,GB,1994,Lorient
+340,Nathan N'Goumou,MT,2000,Toulouse
+341,Papa Ndiaga Yade,DFMT,2000,Troyes
+342,Neymar,MTAT,1992,Paris S-G
+343,M'Baye Niang,AT,1994,Auxerre
+344,Rasmus Nicolaisen,DF,1997,Toulouse
+345,Arnaud Nordin,MT,1998,Montpellier
+346,Riad Nouri,MT,1985,Ajaccio
+347,Alexander Nübel,GB,1996,Monaco
+348,Gerzino Nyamsi,DF,1997,Strasbourg
+349,Wilson Odobert,MT,2004,Troyes
+350,Florent Ogier,DF,1989,Clermont Foot
+351,Jonas Omlin,GB,1994,Montpellier
+352,Ado Onaiwu,ATMT,1995,Toulouse
+353,Jean Onana,MT,2000,Lens
+354,Loïs Openda,AT,2000,Lens
+355,Dango Ouattara,MTAT,2002,Lorient
+356,Azzedine Ounahi,MT,2000,Angers
+357,Adam Ounas,MTAT,1996,Lille
+358,Nicolas Pallois,DF,1987,Nantes
+359,Erik Palmer-Brown,DF,1997,Troyes
+360,Lucas Paquetá,MT,1997,Lyon
+361,Leandro Paredes,MT,1994,Paris S-G
+362,Dimitri Payet,MT,1987,Marseille
+363,Patrick Pentz,GB,1997,Reims
+364,Nicolas Pépé,MTAT,1995,Nice
+365,Brayann Pereira,DF,2003,Auxerre
+366,Danilo Pereira,DFMT,1991,Paris S-G
+367,Mathias Pereira Lage,MTAT,1996,Brest
+368,Gaëtan Perrin,MT,1996,Auxerre
+369,Lucas Perrin,DF,1998,Strasbourg
+370,Ronaël Pierre-Gabriel,DF,1998,Strasbourg
+371,Julien Ponceau,MT,2000,Lorient
+372,Łukasz Poręba,MT,2000,Lens
+373,Jackson Porozo,DF,2000,Troyes
+374,Sanjin Prcić,MT,1993,Strasbourg
+375,Ghjuvanni Quilichini,GB,2002,Ajaccio
+376,Adil Rami,DF,1985,Troyes
+377,Sergio Ramos,DF,1986,Paris S-G
+378,Aaron Ramsey,MT,1990,Nice
+379,Elba Rashani,MTDF,1993,Clermont Foot
+380,Rafael Ratão,MTAT,1995,Toulouse
+381,Rayan Raveloson,MT,1997,Auxerre
+382,Jeff Reine-Adélaïde,MT,1998,Lyon
+383,Alexsandro Ribeiro,DF,1999,Lille
+384,Rémy Riou,GB,1987,Lyon
+385,Renaud Ripart,MTAT,1993,Troyes
+386,Joe Rodon,DF,1997,Rennes
+387,Valentin Rongier,MT,1994,Marseille
+388,Pablo Rosario,MTDF,1997,Nice
+389,Anthony Rouault,DF,2001,Toulouse
+390,Kays Ruiz,MT,2002,Auxerre
+391,Fabián Ruiz Peña,MT,1996,Paris S-G
+392,Halid Šabanović,DFAT,1999,Angers
+393,Falaye Sacko,DF,1995,Montpellier
+394,Wesley Saïd,ATMT,1995,Lens
+395,Théo Sainte-Luce,DF,1998,Montpellier
+396,Hamza Sakhi,MT,1996,Auxerre
+397,Mamadou Sakho,DF,1990,Montpellier
+398,Amine Salama,ATMT,2000,Angers
+399,Yoann Salmier,DF,1992,Troyes
+400,Mama Samba Baldé,AT,1995,Troyes
+401,Brice Samba,GB,1994,Lens
+402,Renato Sanches,MT,1997,Paris S-G
+403,Alexis Sánchez,ATMT,1988,Marseille
+404,Baptiste Santamaria,MT,1995,Rennes
+405,Pablo Sarabia,ATMT,1992,Paris S-G
+406,Muhammed Saracevic Cham,MT,2000,Clermont Foot
+407,Malang Sarr,DF,1999,Monaco
+408,Téji Savanier,MT,1991,Montpellier
+409,Kasper Schmeichel,GB,1986,Nice
+410,Alidu Seidu,DF,2000,Clermont Foot
+411,Matz Sels,GB,1992,Strasbourg
+412,Marvin Senaya,DF,2001,Strasbourg
+413,Caio Henrique Oliveira Silva,DFMT,1997,Monaco
+414,Abdallah Sima,AT,2001,Angers
+415,Moses Simon,MTAT,1995,Nantes
+416,Lassine Sinayoko,MTAT,1999,Auxerre
+417,Ibrahima Sissoko,MT,1997,Strasbourg
+418,Moussa Sissoko,MT,1989,Nantes
+419,Islam Slimani,AT,1988,Brest
+420,Carlos Soler,MT,1997,Paris S-G
+421,François-Joseph Sollacaro,GB,1994,Ajaccio
+422,Florian Sotoca,ATMT,1990,Lens
+423,Arnaud Souquet,DFMT,1992,Montpellier
+424,Kevin Spadanuda,MT,1997,Ajaccio
+425,Stijn Spierings,MT,1996,Toulouse
+426,Calvin Stengs,MTAT,1998,Nice
+427,Kamaldeen Sulemana,ATMT,2002,Rennes
+428,Issiaga Sylla,DF,1994,Toulouse
+429,Nicolás Tagliafico,DF,1992,Lyon
+430,Waniss Taibi,MT,2002,Angers
+431,Flavien Tait,MT,1993,Rennes
+432,Montassar Talbi,DF,1998,Lorient
+433,Florian Tardieu,MT,1992,Troyes
+434,Nuno Tavares,DF,2000,Marseille
+435,Enzo Tchato,DF,2002,Montpellier
+436,Martin Terrier,ATMT,1997,Rennes
+437,Tetê,ATMT,2000,Lyon
+438,Arthur Theate,DF,2000,Rennes
+439,Sada Thioub,MTAT,1995,Angers
+440,Adrien Thomasson,MT,1993,Strasbourg
+441,Khéphren Thuram-Ulie,MT,2001,Nice
+442,Jean-Clair Todibo,DF,1999,Nice
+443,Karl Toko Ekambi,ATMT,1992,Lyon
+444,Corentin Tolisso,MT,1994,Lyon
+445,Birama Touré,MT,1992,Auxerre
+446,Souleymane Touré,DF,2003,Marseille
+447,Yoann Touzghar,AT,1986,Ajaccio
+448,Hamari Traoré,DF,1992,Rennes
+449,Adrien Truffert,DF,2001,Rennes
+450,Ike Ugbo,ATMT,1998,Troyes
+451,Chimuanya Ugochukwu,MT,2004,Rennes
+452,Cengiz Ünder,MT,1997,Marseille
+453,Jere Uronen,DF,1994,Brest
+454,Yan Valery,DFAT,1999,Angers
+455,Vanderson,DFMT,2001,Monaco
+456,Jordan Veretout,MT,1993,Marseille
+457,Marco Verratti,MT,1992,Paris S-G
+458,Clément Vidal,DF,2000,Ajaccio
+459,Alan Virginius,MTAT,2003,Lille
+460,Mattia Viti,DF,2002,Nice
+461,Vitinha,MT,2000,Paris S-G
+462,Kevin Volland,AT,1992,Monaco
+463,Timothy Weah,MT,2000,Lille
+464,Mateusz Wieteska,DF,1997,Clermont Foot
+465,Christopher Wooh,DF,2001,Rennes
+466,Christopher Wooh,MT,2001,Lens
+467,Xeka,MT,1994,Rennes
+468,Yusuf Yazıcı,MT,1997,Lille
+469,Darlin Yongwa,ATDF,2000,Lorient
+470,Leny Yoro,DF,2005,Lille
+471,Mohamed Youssouf,DF,1988,Ajaccio
+472,Warren Zaire-Emery,MT,2006,Paris S-G
+473,Oliver Zandén,DFMT,2001,Toulouse
+474,Akim Zedadka,DFMT,1995,Lille
+475,Mehdi Zeffane,MTDF,1992,Clermont Foot
+476,Arber Zeneli,ATMT,1995,Reims
+477,Edon Zhegrova,MT,1999,Lille
+
