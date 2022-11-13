@@ -1,6 +1,6 @@
 Ligue2 :
 INSERT INTO Joueurs(id_joueur,prenom,nom,poste,date_nat,id_club)  VALUES(1048,'FONSEKA','BAUDIW','ATT',1995,34);
-INSERT INTO Joueurs(id_joueur,prenom,nom,poste,date_nat,id_club)  VALUES(1049,'ELAYNE','BALGOURANIDIS','ATT',1991,31);
+INSERT INTO Joueurs(id_joueur,prenom,nom,poste,date_nat,id_club)  VALUES(1049,'ELAYNE','TRAORE','ATT',1991,31);
 INSERT INTO Joueurs(id_joueur,prenom,nom,poste,date_nat,id_club)  VALUES(1050,'BOULIN','ANDHUM DINE','MT',2002,39);
 INSERT INTO Joueurs(id_joueur,prenom,nom,poste,date_nat,id_club)  VALUES(1051,'DARLAYS','AUGENER','ATT',2001,25);
 INSERT INTO Joueurs(id_joueur,prenom,nom,poste,date_nat,id_club)  VALUES(1052,'DAAN','ATTAK','MT',1994,24);
@@ -384,7 +384,7 @@ INSERT INTO Joueurs(id_joueur,prenom,nom,poste,date_nat,id_club)  VALUES(1429,'C
 INSERT INTO Joueurs(id_joueur,prenom,nom,poste,date_nat,id_club)  VALUES(1430,'DOLOMIE','BADDOUM','MT',1995,22);
 INSERT INTO Joueurs(id_joueur,prenom,nom,poste,date_nat,id_club)  VALUES(1431,'BEMOUSSA','AL TAMSHEH','ATT',1994,30);
 INSERT INTO Joueurs(id_joueur,prenom,nom,poste,date_nat,id_club)  VALUES(1432,'DOMATENZO','BADENS','ATT',1995,32);
-INSERT INTO Joueurs(id_joueur,prenom,nom,poste,date_nat,id_club)  VALUES(1433,'CHANHTHA','ARCHER','ATT',1994,33);
+INSERT INTO Joueurs(id_joueur,prenom,nom,poste,date_nat,id_club)  VALUES(1433,'CHANHTHA','TRAORE','ATT',1994,33);
 INSERT INTO Joueurs(id_joueur,prenom,nom,poste,date_nat,id_club)  VALUES(1434,'GIANSANDRA','BELADEN','DR',1996,35);
 INSERT INTO Joueurs(id_joueur,prenom,nom,poste,date_nat,id_club)  VALUES(1435,'JACINTHO','BERRORAL','ATT',2003,30);
 INSERT INTO Joueurs(id_joueur,prenom,nom,poste,date_nat,id_club)  VALUES(1436,'DIVORCE','BABASSANA','DR',1998,31);
