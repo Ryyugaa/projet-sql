@@ -1,0 +1,4 @@
+1) Afficher le noms des ligues qui sont francaises:
+Select nom_ligue From LIGUE
+WHERE pays = 'France'
+2)
