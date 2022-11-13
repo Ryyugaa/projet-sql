@@ -30,4 +30,8 @@ WHERE id_club = '45' and poste = 'MT'
 8) Affiche le nombre de postes différents:
 SELECT count(distinct poste) FROM Joueurs
 
+9) Afficher le nom des villes des clubs qui jouent en Ligue 1 ou Premier League:
+SELECT ville FROM CLUB
+WHERE id_ligue = '1' or id_ligue = '3' 
+
 
