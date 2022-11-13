@@ -34,4 +34,14 @@ SELECT count(distinct poste) FROM Joueurs
 SELECT ville FROM CLUB
 WHERE id_ligue = '1' or id_ligue = '3' 
 
+10) Afficher nom du club et ville du joueur dont le prénom est Atiya:
+SELECT nom_club, ville FROM CLUB
+JOIN Joueurs ON Joueurs.id_club = CLUB.id_club
+WHERE prenom = 'ATIYA'
+
+11) Afficher le prenom et nom des joueurs qui joue à Amiens:
+SELECT prenom, nom from Joueurs
+where id_club = '21'
+
+
 
