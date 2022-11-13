@@ -13,3 +13,14 @@ WHERE id_club = 37
 4) Afficher les clubs se situant à Londres:
 SELECT nom_club FROM CLUB
 WHERE ville = 'Londres'
+
+5) Afficher le prénom et nom des attaquants de Premier League
+SELECT prenom, nom FROM Joueurs
+JOIN CLUB ON Joueurs.id_club = CLUB.id_club
+where poste = 'ATT' and id_ligue = '3'
+
+6) Afficher le prenom et poste des joueurs né en 2002:
+SELECT prenom, poste FROM Joueurs
+where date_nat = '2002'
+
+
