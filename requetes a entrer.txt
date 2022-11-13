@@ -395,7 +395,7 @@ INSERT INTO Joueurs(id_joueur,prenom,nom,poste,date_nat,id_club)  VALUES(1440,'I
 INSERT INTO Joueurs(id_joueur,prenom,nom,poste,date_nat,id_club)  VALUES(1441,'JINRUI','BEY JEAN','GB',2003,29);
 INSERT INTO Joueurs(id_joueur,prenom,nom,poste,date_nat,id_club)  VALUES(1442,'BOUTHAL','ANDRES Y PEREZ','ATT',2001,28);
 INSERT INTO Joueurs(id_joueur,prenom,nom,poste,date_nat,id_club)  VALUES(1443,'IRWANA','BERMOIN','ATT',1999,22);
-INSERT INTO Joueurs(id_joueur,prenom,nom,poste,date_nat,id_club)  VALUES(1444,'CHIYOKO','ARNAUD PLAGNARD','GB',1994,22);
+INSERT INTO Joueurs(id_joueur,prenom,nom,poste,date_nat,id_club)  VALUES(1444,'CHIYOKO','TRAORE','GB',1994,22);
 INSERT INTO Joueurs(id_joueur,prenom,nom,poste,date_nat,id_club)  VALUES(1445,'FETAI','BASTIEN REHEIS','ATT',2000,29);
 INSERT INTO Joueurs(id_joueur,prenom,nom,poste,date_nat,id_club)  VALUES(1446,'JEYALUXMY','BETTIRA','DR',1993,25);
 INSERT INTO Joueurs(id_joueur,prenom,nom,poste,date_nat,id_club)  VALUES(1447,'EUPHRA','BARET COLLET','DR',2002,21);
