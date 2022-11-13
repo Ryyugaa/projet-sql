@@ -1,10 +1,15 @@
 1) Afficher le noms des ligues qui sont francaises:
 Select nom_ligue From LIGUE
 WHERE pays = 'France'
-2)Afficher le nombre de clubs de Ligue 2
+
+2) Afficher le nombre de clubs de Ligue 2:
 SELECT COUNT(*) FROM CLUB
 WHERE id_ligue = 2
-3)Afficher le nom, le prenom et le poste des joueuers qui jouent a st etienne
+
+3) Afficher le nom, le prenom et le poste des joueurs qui jouent a st etienne:
 SELECT nom,prenom,poste FROM Joueurs
 WHERE id_club = 37
-4)
+
+4) Afficher les clubs se situant à Londres:
+SELECT nom_club FROM CLUB
+WHERE ville = 'Londres'
