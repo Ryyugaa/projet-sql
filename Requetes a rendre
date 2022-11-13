@@ -23,4 +23,8 @@ where poste = 'ATT' and id_ligue = '3'
 SELECT prenom, poste FROM Joueurs
 where date_nat = '2002'
 
+7) Afficher le nombre de joueurs qui joue à Newcastle United FC et qui ont comme poste MT:
+SELECT COUNT(*) FROM Joueurs
+WHERE id_club = '45' and poste = 'MT'
+
 
